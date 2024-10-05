@@ -9,7 +9,7 @@
         body {
             font-family: Arial, sans-serif;
             background-color: #00796b; /* Cambiado el color de fondo */
-             background-image: url('splash2.avif');
+             background-image: url('fondo1.jpg');
             margin: 0;
             padding: 0;
             display: flex;
