@@ -54,6 +54,17 @@
     <div class="container">
         <h2>LISA WEBAPP</h2>
         <ul>
+         <li>
+              <p>LISA DANANG</p>
+                <a target="_blank" rel="noopener noreferrer" href="https://da-nang.fr-1.paas.massivegrid.net/dc3webApp4/faces/login.xhtml?faces-redirect=true" class="ck-link_selected">https://da-nang.fr-1.paas.massivegrid.net/dc3webApp4/faces/login.xhtml?faces-redirect=true</a>
+              
+            </li>
+
+             <li>
+              <p>LISA PREQUALIFICATTION VI</p>
+                <a target="_blank" rel="noopener noreferrer" href="https://da-nang.fr-1.paas.massivegrid.net/precalification/" class="ck-link_selected">https://da-nang.fr-1.paas.massivegrid.net/precalification/</a>
+              
+            </li>
             <li>
               <p>LISA TECATE</p>
                 <a target="_blank" rel="noopener noreferrer" href="https://dc3-2022.ny-2.paas.massivegrid.net/dc3webApp4/faces/login.xhtml?faces-redirect=true" class="ck-link_selected">https://dc3-2022.ny-2.paas.massivegrid.net/dc3webApp4/faces/login.xhtml?faces-redirect=true</a>
