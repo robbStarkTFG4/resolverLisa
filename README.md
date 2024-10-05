@@ -1,11 +1,10 @@
-# resolverLisa
 
-<!DOCTYPE html>
+
 <html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Lista de Links con Descripción</title>
+    <title>LISA PLATFORM</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -53,11 +52,12 @@
 <body>
 
     <div class="container">
-        <h2>Lista de Links con Descripción</h2>
+        <h2>LISA WEBAPP</h2>
         <ul>
             <li>
+              <p>LISA TECATE</p>
                 <a target="_blank" rel="noopener noreferrer" href="https://dc3-2022.ny-2.paas.massivegrid.net/dc3webApp4/faces/login.xhtml?faces-redirect=true" class="ck-link_selected">https://dc3-2022.ny-2.paas.massivegrid.net/dc3webApp4/faces/login.xhtml?faces-redirect=true</a>
-                <p>LISA TECATE</p>
+              
             </li>
            
         </ul>
