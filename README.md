@@ -68,20 +68,78 @@
     <div class="container">
         <h2>DIRECTORIO URLS WEBAPP</h2>
         <ul>
-         <li>
-              <p>LISA DANANG</p>
-                <a target="_blank" rel="noopener noreferrer" href="https://da-nang.fr-1.paas.massivegrid.net/dc3webApp4/faces/login.xhtml?faces-redirect=true" class="ck-link_selected">https://da-nang.fr-1.paas.massivegrid.net/dc3webApp4/faces/login.xhtml?faces-redirect=true</a>
-              
-            </li>
-
-             <li>
-              <p>LISA PREQUALIFICATTION VI</p>
-                <a target="_blank" rel="noopener noreferrer" href="https://da-nang.fr-1.paas.massivegrid.net/precalification/" class="ck-link_selected">https://da-nang.fr-1.paas.massivegrid.net/precalification/</a>
-              
-            </li>
+   
             <li>
               <p>LISA TECATE</p>
                 <a target="_blank" rel="noopener noreferrer" href="https://dc3-2022.ny-2.paas.massivegrid.net/dc3webApp4/faces/login.xhtml?faces-redirect=true" class="ck-link_selected">https://dc3-2022.ny-2.paas.massivegrid.net/dc3webApp4/faces/login.xhtml?faces-redirect=true</a>
+              
+            </li>
+
+                 <li>
+              <p>LISA TOLUCA</p>
+                <a target="_blank" rel="noopener noreferrer" href="https://dc3-2019-toluca.ny-2.paas.massivegrid.net/dc3webApp4/faces/login.xhtml?faces-redirect=true" class="ck-link_selected">https://dc3-2019-toluca.ny-2.paas.massivegrid.net/dc3webApp4/faces/login.xhtml?faces-redirect=true</a>
+              
+            </li>
+
+
+                 <li>
+              <p>LISA TECATE</p>
+                <a target="_blank" rel="noopener noreferrer" href="https://dc3-2022.ny-2.paas.massivegrid.net/dc3webApp4/faces/login.xhtml?faces-redirect=true" class="ck-link_selected">https://dc3-2022.ny-2.paas.massivegrid.net/dc3webApp4/faces/login.xhtml?faces-redirect=true</a>
+              
+            </li>
+
+
+                 <li>
+              <p>LISA OS</p>
+                <a target="_blank" rel="noopener noreferrer" href="https://dc3-2022-0s.ny-2.paas.massivegrid.net/dc3webApp4/faces/login.xhtml?faces-redirect=true" class="ck-link_selected">https://dc3-2022-0s.ny-2.paas.massivegrid.net/dc3webApp4/faces/login.xhtml?faces-redirect=true</a>
+              
+            </li>
+
+                 <li>
+              <p>LISA GRAJALES</p>
+                <a target="_blank" rel="noopener noreferrer" href="https://dc3-2022-grajales.ny-2.paas.massivegrid.net/dc3webApp4/faces/login.xhtml?faces-redirect=true" class="ck-link_selected">https://dc3-2022-grajales.ny-2.paas.massivegrid.net/dc3webApp4/faces/login.xhtml?faces-redirect=true</a>
+              
+            </li>
+
+                 <li>
+              <p>LISA GUADALAJARA</p>
+                <a target="_blank" rel="noopener noreferrer" href="https://dc3-2022-guadalajara.ny-2.paas.massivegrid.net/dc3webApp4/faces/login.xhtml?faces-redirect=true" class="ck-link_selected">https://dc3-2022-guadalajara.ny-2.paas.massivegrid.net/dc3webApp4/faces/login.xhtml?faces-redirect=true/a>
+              
+            </li>
+
+                 <li>
+              <p>LISA MEOQUI</p>
+                <a target="_blank" rel="noopener noreferrer" href="https://dc3-2022-meoqui.ny-2.paas.massivegrid.net/dc3webApp4/faces/login.xhtml?faces-redirect=true" class="ck-link_selected">https://dc3-2022-meoqui.ny-2.paas.massivegrid.net/dc3webApp4/faces/login.xhtml?faces-redirect=true</a>
+              
+            </li>
+
+                 <li>
+              <p>LISA MONTERREY</p>
+                <a target="_blank" rel="noopener noreferrer" href="https://dc3-2022-monterrey.ny-2.paas.massivegrid.net/dc3webApp4/faces/login.xhtml?faces-redirect=true" class="ck-link_selected">https://dc3-2022-monterrey.ny-2.paas.massivegrid.net/dc3webApp4/faces/login.xhtml?faces-redirect=true</a>
+              
+            </li>
+
+                 <li>
+              <p>LISA NAVOJOA</p>
+                <a target="_blank" rel="noopener noreferrer" href="https://dc3-2022-navojoa.ny-2.paas.massivegrid.net/dc3webApp4/faces/login.xhtml?faces-redirect=true" class="ck-link_selected">https://dc3-2022-navojoa.ny-2.paas.massivegrid.net/dc3webApp4/faces/login.xhtml?faces-redirect=true</a>
+              
+            </li>
+
+                 <li>
+              <p>LISA ORIZABA</p>
+                <a target="_blank" rel="noopener noreferrer" href="https://dc3-2022-orizaba.ny-2.paas.massivegrid.net/dc3webApp4/faces/login.xhtml?faces-redirect=true" class="ck-link_selected">https://dc3-2022-orizaba.ny-2.paas.massivegrid.net/dc3webApp4/faces/login.xhtml?faces-redirect=true</a>
+              
+            </li>
+
+                 <li>
+              <p>LISA PACHUCA</p>
+                <a target="_blank" rel="noopener noreferrer" href="https://dc3-2020-pachuca.jl.serv.net.mx/dc3webApp4/faces/login.xhtml?faces-redirect=true" class="ck-link_selected">[https://dc3-2022.ny-2.paas.massivegrid.net/dc3webApp4/faces/login.xhtml?faces-redirect=true](https://dc3-2020-pachuca.jl.serv.net.mx/dc3webApp4/faces/login.xhtml?faces-redirect=true)</a>
+              
+            </li>
+
+                 <li>
+              <p>PRECALIFICACION</p>
+                <a target="_blank" rel="noopener noreferrer" href="https://dc3-2021-os.jl.serv.net.mx/precalificacion/" class="ck-link_selected">https://dc3-2021-os.jl.serv.net.mx/precalificacion/</a>
               
             </li>
            
