@@ -47,6 +47,19 @@
             margin: 5px 0;
             color: #555;
         }
+
+          @media (max-width: 600px) {
+            .container {
+                padding: 15px;
+                max-width: 100%; /* Usa el ancho completo en pantallas pequeñas */
+            }
+            h2 {
+                font-size: 1.5em; /* Reduce tamaño del título en pantallas pequeñas */
+            }
+            p {
+                font-size: 0.9em; /* Reduce tamaño de descripciones en pantallas pequeñas */
+            }
+        }
     </style>
 </head>
 <body>
