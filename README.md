@@ -10,7 +10,8 @@
         body {
             font-family: 'Roboto', sans-serif;
             background-color: #004d40; 
-            background-image: linear-gradient(to bottom right, #004d40, #00796b);
+          
+              background-image: url('fondo1.jpg');
             margin: 0;
             padding: 0;
             display: flex;
